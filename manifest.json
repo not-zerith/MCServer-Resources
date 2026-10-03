@@ -1,8 +1,8 @@
 {
     "version": "4.0.0",
-    "zip_url": "https://huggingface.co/datasets/TuUsuario/TuDataset/resolve/main/modpack.zip?download=true",
+    "zip_url": "https://huggingface.co/datasets/notuser2005/modpack/resolve/main/modpack.zip?download=true",
     "zip_urls": [
-        "https://huggingface.co/datasets/TuUsuario/TuDataset/resolve/main/modpack.zip?download=true"
+        "https://huggingface.co/datasets/notuser2005/modpack/resolve/main/modpack.zip?download=true"
     ],
     "zip_hash": "4c3cf19e242d4aed7f1566d1a7db731b5efef47face1586713b44d64b4965cb6",
     "strict_folders": [
