@@ -1771,42 +1771,42 @@
         {
             "path": "config/jei/blacklist.cfg",
             "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-            "sync_mode": "always"
+            "sync_mode": "once"
         },
         {
             "path": "config/jei/ingredient-list-mod-sort-order.ini",
             "hash": "7aeda29745baa8d77b4592dd9a26c67219c229499553756d57d35c6da25703f7",
-            "sync_mode": "always"
+            "sync_mode": "once"
         },
         {
             "path": "config/jei/ingredient-list-type-sort-order.ini",
             "hash": "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b",
-            "sync_mode": "always"
+            "sync_mode": "once"
         },
         {
             "path": "config/jei/jei-client.ini",
             "hash": "8c5ae3646c07bfd87fe9259333c2df2b7eb2670cd0c64c21f48f69e0a5629a18",
-            "sync_mode": "always"
+            "sync_mode": "once"
         },
         {
             "path": "config/jei/jei-colors.ini",
             "hash": "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e",
-            "sync_mode": "always"
+            "sync_mode": "once"
         },
         {
             "path": "config/jei/jei-debug.ini",
             "hash": "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b",
-            "sync_mode": "always"
+            "sync_mode": "once"
         },
         {
             "path": "config/jei/jei-mod-id-format.ini",
             "hash": "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3",
-            "sync_mode": "always"
+            "sync_mode": "once"
         },
         {
             "path": "config/jei/recipe-category-sort-order.ini",
             "hash": "98eb6065ff6bb683da0d9ae363a22714a59497c05a956ed3abaf26fae2d462c5",
-            "sync_mode": "always"
+            "sync_mode": "once"
         },
         {
             "path": "config/jei/world/local/New_World/bookmarks.ini",
