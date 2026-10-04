@@ -4,7 +4,7 @@
     "zip_urls": [
         "https://huggingface.co/datasets/notuser2005/modpack/resolve/main/modpack.zip?download=true"
     ],
-    "zip_hash": "774630f02d28016d94848ce9c878eb7db466b89235ec88a1c5dd7450bd3f6b3f",
+    "zip_hash": "c226c3c66dae8d56a3949287eeb357bfe9162ce69f951175f52b3692fbf3c365",
     "strict_folders": [
         "mods",
         "config",
@@ -2731,11 +2731,6 @@
         {
             "path": "mods/oculus-mc1.20.1-1.8.0.jar",
             "hash": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/Paraglider-forge-20.1.3.jar",
-            "hash": "3528e4d424682a415ae97b9597e5ed0567e5a194b4aeb30ae364e962da43b36a",
             "sync_mode": "always"
         },
         {
