@@ -4,7 +4,7 @@
     "zip_urls": [
         "https://huggingface.co/datasets/notuser2005/modpack/resolve/main/modpack.zip?download=true"
     ],
-    "zip_hash": "3a3addd9040a1b945e364f4c0e3bee1f95259c7d11f33cf9a6e0725b448e3f3c",
+    "zip_hash": "60a420c8cda31966f9b16580f97dd681930b13587fcf2f9e9d36e04bdd49c934",
     "strict_folders": [
         "mods",
         "config",
@@ -2261,11 +2261,6 @@
         {
             "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
             "hash": "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/colorfulhearts-forge-1.20.1-4.3.16.jar",
-            "hash": "cff4fe41c167b6bdf15d41ab6778994434daddad833b938602b998890c86b696",
             "sync_mode": "always"
         },
         {
