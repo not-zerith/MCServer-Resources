@@ -4,7 +4,7 @@
     "zip_urls": [
         "https://huggingface.co/datasets/notuser2005/modpack/resolve/main/modpack.zip?download=true"
     ],
-    "zip_hash": "60a420c8cda31966f9b16580f97dd681930b13587fcf2f9e9d36e04bdd49c934",
+    "zip_hash": "774630f02d28016d94848ce9c878eb7db466b89235ec88a1c5dd7450bd3f6b3f",
     "strict_folders": [
         "mods",
         "config",
@@ -2349,6 +2349,11 @@
             "sync_mode": "always"
         },
         {
+            "path": "mods/Disenchanting-forge-1.20.1-2.2.4.jar",
+            "hash": "804edbf5c6e6a068e90cc8dfe40bf9a551416ac5c15e81d1defa342c5593101d",
+            "sync_mode": "always"
+        },
+        {
             "path": "mods/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
             "hash": "27cc6df2189e142671e4174ad7b2d773318b1b871758ec27756538947052a302",
             "sync_mode": "always"
@@ -2821,16 +2826,6 @@
         {
             "path": "mods/sodiumextras-forge-1.0.7-1.20.1.jar",
             "hash": "ce9a13c5f07e350f9c0b86af9e096aedb91cbc72996e59646da61ec724f1e4df",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/solapplepie-1.20.1-2.3.0.jar",
-            "hash": "c45a062a6724a88ac8684d43bbcb38bf43079094ad954f9bda2f8cf134012818",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/solcarrot-1.20.1-1.15.1.jar",
-            "hash": "629d6744c8d856c51c74c66eba4c252c6d62d392dbaf5b24ea690cd8f081e679",
             "sync_mode": "always"
         },
         {
